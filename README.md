@@ -1,4 +1,4 @@
-# dc-backend
+# mobiquity-sw-backend
 
 Please use sample.env as the env to use for this application.
 
